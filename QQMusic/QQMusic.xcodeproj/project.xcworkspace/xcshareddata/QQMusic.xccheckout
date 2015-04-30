@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1CD4C68B-1DCF-4A8D-B80F-C2EC4A97568F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QQMusic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E7C880E4F6DB914BF1E8072AEA62E4F983EED7C0</key>
+		<string>https://github.com/yezhanxiang/Music.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QQMusic/QQMusic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E7C880E4F6DB914BF1E8072AEA62E4F983EED7C0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yezhanxiang/Music.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E7C880E4F6DB914BF1E8072AEA62E4F983EED7C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7C880E4F6DB914BF1E8072AEA62E4F983EED7C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
